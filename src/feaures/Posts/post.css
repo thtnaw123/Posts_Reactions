@@ -1,0 +1,41 @@
+.unitPost {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #f5f3f3;
+  border-radius: 10px;
+  margin: 20px;
+  width: 30vw;
+}
+
+.deleteBtn {
+  width: 30px;
+  height: 25px;
+  background: red;
+  outline: none;
+  border: none;
+  margin-top: 10px;
+}
+
+.unitPost .reactionButton {
+  margin: 10px;
+  background: blue;
+  outline: none;
+  border: none;
+  color: #fff;
+}
+
+.post-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  margin: 10px;
+  width: 25vw;
+  height: 25px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
