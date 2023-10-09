@@ -6,3 +6,11 @@ body {
   color: #fff;
   text-align: center;
 }
+
+.header-navbar {
+  background-color: aqua;
+  width: 100%;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+}
